@@ -2,7 +2,7 @@
 
 # github-actions-demo
 
-This i s a repo for building out Github Actions & Tricks
+This is a repo for building out Github Actions & Tricks
 
 ### To use this project you can do this
 
